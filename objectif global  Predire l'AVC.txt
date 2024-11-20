@@ -1,0 +1,6 @@
+objectif global : Predire l'AVC
+- fine tuning
+- dependencing plot ordre 2 (toutes les combinaisons de age-bmi-avg_glucose)
+- decision tree ( all data, numerical_var, categorisation of all var, categorisation_of_num)
+- comment mesurer de facon invasive ces var
+- relation between stroke and sleep
